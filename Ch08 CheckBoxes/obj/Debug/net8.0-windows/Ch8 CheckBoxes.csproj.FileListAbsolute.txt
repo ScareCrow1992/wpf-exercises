@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\bin\Debug\net8.0-windows\Ch8 CheckBoxes.exe
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\bin\Debug\net8.0-windows\Ch8 CheckBoxes.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\bin\Debug\net8.0-windows\Ch8 CheckBoxes.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\bin\Debug\net8.0-windows\Ch8 CheckBoxes.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\bin\Debug\net8.0-windows\Ch8 CheckBoxes.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\Ch8 CheckBoxes_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\Ch8 CheckBoxes_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\Ch8 CheckBoxes.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\Ch8 CheckBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\Ch8 CheckBoxes.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\Ch8 CheckBoxes.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\Ch8 CheckBoxes.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\Ch8 CheckBoxes.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\refint\Ch8 CheckBoxes.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\Ch8 CheckBoxes.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\Ch8 CheckBoxes.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch8 CheckBoxes\obj\Debug\net8.0-windows\ref\Ch8 CheckBoxes.dll

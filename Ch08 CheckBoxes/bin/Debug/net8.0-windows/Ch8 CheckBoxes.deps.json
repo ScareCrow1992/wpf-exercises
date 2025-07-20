@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ch8 CheckBoxes/1.0.0": {
+        "runtime": {
+          "Ch8 CheckBoxes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ch8 CheckBoxes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

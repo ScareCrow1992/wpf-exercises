@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\bin\Debug\net8.0-windows\ch9 RadioButton.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\bin\Debug\net8.0-windows\ch9 RadioButton.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\bin\Debug\net8.0-windows\ch9 RadioButton.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\bin\Debug\net8.0-windows\ch9 RadioButton.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\bin\Debug\net8.0-windows\ch9 RadioButton.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ch9 RadioButton_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ch9 RadioButton_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ch9 RadioButton.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ch9 RadioButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ch9 RadioButton.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ch9 RadioButton.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ch9 RadioButton.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ch9 RadioButton.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\refint\ch9 RadioButton.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ch9 RadioButton.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ch9 RadioButton.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch9 RadioButton\obj\Debug\net8.0-windows\ref\ch9 RadioButton.dll
