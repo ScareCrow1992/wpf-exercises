@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\bin\Debug\net8.0-windows\ch4 Button.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\bin\Debug\net8.0-windows\ch4 Button.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\bin\Debug\net8.0-windows\ch4 Button.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\bin\Debug\net8.0-windows\ch4 Button.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\bin\Debug\net8.0-windows\ch4 Button.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ch4 Button_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ch4 Button_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ch4 Button.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ch4 Button.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ch4 Button.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ch4 Button.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ch4 Button.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ch4 Button.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\refint\ch4 Button.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ch4 Button.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ch4 Button.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch4 Button\obj\Debug\net8.0-windows\ref\ch4 Button.dll

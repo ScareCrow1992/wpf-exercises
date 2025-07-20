@@ -1,0 +1,22 @@
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\bin\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.exe
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\bin\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\bin\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\bin\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\bin\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\refint\Ch30 Tap Control, Modal, Modaless.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Ch30 Tap Control, Modal, Modaless.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\ref\Ch30 Tap Control, Modal, Modaless.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Window1.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Ch30 Tap Control, Modal, Modaless\obj\Debug\net8.0-windows\Window1.baml

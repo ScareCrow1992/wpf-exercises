@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\bin\Debug\net8.0-windows\ch25 Data Binding.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\bin\Debug\net8.0-windows\ch25 Data Binding.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\bin\Debug\net8.0-windows\ch25 Data Binding.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\bin\Debug\net8.0-windows\ch25 Data Binding.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\bin\Debug\net8.0-windows\ch25 Data Binding.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ch25 Data Binding_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ch25 Data Binding_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ch25 Data Binding.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ch25 Data Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ch25 Data Binding.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ch25 Data Binding.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ch25 Data Binding.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ch25 Data Binding.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\refint\ch25 Data Binding.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ch25 Data Binding.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ch25 Data Binding.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch25 Data Binding\obj\Debug\net8.0-windows\ref\ch25 Data Binding.dll

@@ -1,0 +1,22 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\bin\Debug\net8.0-windows\ch34 MVVM.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\bin\Debug\net8.0-windows\ch34 MVVM.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\bin\Debug\net8.0-windows\ch34 MVVM.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\bin\Debug\net8.0-windows\ch34 MVVM.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\bin\Debug\net8.0-windows\ch34 MVVM.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\Views\PersonView.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ch34 MVVM_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ch34 MVVM_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\Views\PersonView.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ch34 MVVM.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ch34 MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ch34 MVVM.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ch34 MVVM.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ch34 MVVM.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ch34 MVVM.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\refint\ch34 MVVM.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ch34 MVVM.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ch34 MVVM.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch34 MVVM\obj\Debug\net8.0-windows\ref\ch34 MVVM.dll

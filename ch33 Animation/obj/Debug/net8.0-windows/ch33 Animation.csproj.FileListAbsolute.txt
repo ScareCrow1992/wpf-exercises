@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ch33 Animation_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\bin\Debug\net8.0-windows\ch33 Animation.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\bin\Debug\net8.0-windows\ch33 Animation.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\bin\Debug\net8.0-windows\ch33 Animation.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\bin\Debug\net8.0-windows\ch33 Animation.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\bin\Debug\net8.0-windows\ch33 Animation.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ch33 Animation_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ch33 Animation.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ch33 Animation.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ch33 Animation.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ch33 Animation.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ch33 Animation.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ch33 Animation.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\refint\ch33 Animation.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ch33 Animation.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ch33 Animation.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch33 Animation\obj\Debug\net8.0-windows\ref\ch33 Animation.dll

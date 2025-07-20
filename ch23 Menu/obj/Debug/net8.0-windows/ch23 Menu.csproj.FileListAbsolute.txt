@@ -1,0 +1,22 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\bin\Debug\net8.0-windows\ch23 Menu.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\bin\Debug\net8.0-windows\ch23 Menu.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\bin\Debug\net8.0-windows\ch23 Menu.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\bin\Debug\net8.0-windows\ch23 Menu.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\bin\Debug\net8.0-windows\ch23 Menu.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ch23 Menu_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ch23 Menu_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ch23 Menu.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ch23 Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ch23 Menu.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ch23 Menu.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ch23 Menu.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ch23 Menu.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\refint\ch23 Menu.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ch23 Menu.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ch23 Menu.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\ref\ch23 Menu.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\UserControl1.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch23 Menu\obj\Debug\net8.0-windows\UserControl1.baml

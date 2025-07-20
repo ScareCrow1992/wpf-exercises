@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\bin\Debug\net8.0-windows\ch24 Context Menu.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\bin\Debug\net8.0-windows\ch24 Context Menu.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\bin\Debug\net8.0-windows\ch24 Context Menu.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\bin\Debug\net8.0-windows\ch24 Context Menu.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\bin\Debug\net8.0-windows\ch24 Context Menu.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ch24 Context Menu_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ch24 Context Menu_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ch24 Context Menu.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ch24 Context Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ch24 Context Menu.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ch24 Context Menu.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ch24 Context Menu.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ch24 Context Menu.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\refint\ch24 Context Menu.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ch24 Context Menu.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ch24 Context Menu.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch24 Context Menu\obj\Debug\net8.0-windows\ref\ch24 Context Menu.dll

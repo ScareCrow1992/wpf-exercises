@@ -1,0 +1,23 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\bin\Debug\net8.0-windows\ch31 User Control.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\bin\Debug\net8.0-windows\ch31 User Control.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\bin\Debug\net8.0-windows\ch31 User Control.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\bin\Debug\net8.0-windows\ch31 User Control.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\bin\Debug\net8.0-windows\ch31 User Control.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\uc\UserControl1.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ch31 User Control_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ch31 User Control_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\uc\UserControl1.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ch31 User Control.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ch31 User Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ch31 User Control.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ch31 User Control.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ch31 User Control.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ch31 User Control.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\refint\ch31 User Control.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ch31 User Control.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ch31 User Control.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch31 User Control\obj\Debug\net8.0-windows\ref\ch31 User Control.dll

@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\bin\Debug\net8.0-windows\Ch28 Quiz App.exe
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\bin\Debug\net8.0-windows\Ch28 Quiz App.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\bin\Debug\net8.0-windows\Ch28 Quiz App.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\bin\Debug\net8.0-windows\Ch28 Quiz App.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\bin\Debug\net8.0-windows\Ch28 Quiz App.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\Ch28 Quiz App_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\Ch28 Quiz App_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\Ch28 Quiz App.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\Ch28 Quiz App.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\Ch28 Quiz App.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\Ch28 Quiz App.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\Ch28 Quiz App.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\Ch28 Quiz App.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\refint\Ch28 Quiz App.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\Ch28 Quiz App.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\Ch28 Quiz App.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Ch28 Quiz App\obj\Debug\net8.0-windows\ref\Ch28 Quiz App.dll

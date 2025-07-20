@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\bin\Debug\net8.0-windows\ch10 Callender.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\bin\Debug\net8.0-windows\ch10 Callender.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\bin\Debug\net8.0-windows\ch10 Callender.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\bin\Debug\net8.0-windows\ch10 Callender.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\bin\Debug\net8.0-windows\ch10 Callender.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ch10 Callender_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ch10 Callender_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ch10 Callender.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ch10 Callender.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ch10 Callender.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ch10 Callender.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ch10 Callender.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ch10 Callender.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\refint\ch10 Callender.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ch10 Callender.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ch10 Callender.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch10 Callender\obj\Debug\net8.0-windows\ref\ch10 Callender.dll

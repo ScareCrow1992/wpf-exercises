@@ -1,0 +1,26 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\Views\Page1.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\Views\Page2.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\Views\Page3.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ch29 screen moving frame_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ch29 screen moving frame_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\bin\Debug\net8.0-windows\ch29 screen moving frame.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\bin\Debug\net8.0-windows\ch29 screen moving frame.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\bin\Debug\net8.0-windows\ch29 screen moving frame.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\bin\Debug\net8.0-windows\ch29 screen moving frame.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\bin\Debug\net8.0-windows\ch29 screen moving frame.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\Views\Page1.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\Views\Page2.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\Views\Page3.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ch29 screen moving frame.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ch29 screen moving frame.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ch29 screen moving frame.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ch29 screen moving frame.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ch29 screen moving frame.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ch29 screen moving frame.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\refint\ch29 screen moving frame.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ch29 screen moving frame.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ch29 screen moving frame.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch29 screen moving frame\obj\Debug\net8.0-windows\ref\ch29 screen moving frame.dll

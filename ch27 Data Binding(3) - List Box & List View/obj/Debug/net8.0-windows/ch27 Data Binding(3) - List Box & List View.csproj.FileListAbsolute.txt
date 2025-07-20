@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\bin\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\bin\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\bin\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\bin\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\bin\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\refint\ch27 Data Binding(3) - List Box & List View.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ch27 Data Binding(3) - List Box & List View.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch27 Data Binding(3) - List Box & List View\obj\Debug\net8.0-windows\ref\ch27 Data Binding(3) - List Box & List View.dll

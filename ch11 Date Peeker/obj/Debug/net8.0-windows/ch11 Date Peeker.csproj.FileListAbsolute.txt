@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\bin\Debug\net8.0-windows\ch11 Date Peeker.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\bin\Debug\net8.0-windows\ch11 Date Peeker.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\bin\Debug\net8.0-windows\ch11 Date Peeker.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\bin\Debug\net8.0-windows\ch11 Date Peeker.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\bin\Debug\net8.0-windows\ch11 Date Peeker.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ch11 Date Peeker_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ch11 Date Peeker_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ch11 Date Peeker.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ch11 Date Peeker.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ch11 Date Peeker.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ch11 Date Peeker.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ch11 Date Peeker.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ch11 Date Peeker.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\refint\ch11 Date Peeker.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ch11 Date Peeker.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ch11 Date Peeker.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch11 Date Peeker\obj\Debug\net8.0-windows\ref\ch11 Date Peeker.dll

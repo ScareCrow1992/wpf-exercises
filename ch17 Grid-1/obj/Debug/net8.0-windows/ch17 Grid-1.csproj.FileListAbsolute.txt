@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\bin\Debug\net8.0-windows\ch17 Grid-1.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\bin\Debug\net8.0-windows\ch17 Grid-1.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\bin\Debug\net8.0-windows\ch17 Grid-1.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\bin\Debug\net8.0-windows\ch17 Grid-1.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\bin\Debug\net8.0-windows\ch17 Grid-1.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ch17 Grid-1_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ch17 Grid-1_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ch17 Grid-1.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ch17 Grid-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ch17 Grid-1.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ch17 Grid-1.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ch17 Grid-1.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ch17 Grid-1.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\refint\ch17 Grid-1.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ch17 Grid-1.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ch17 Grid-1.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch17 Grid-1\obj\Debug\net8.0-windows\ref\ch17 Grid-1.dll

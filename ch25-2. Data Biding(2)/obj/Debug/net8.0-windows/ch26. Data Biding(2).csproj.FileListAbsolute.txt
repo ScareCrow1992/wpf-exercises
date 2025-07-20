@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\bin\Debug\net8.0-windows\ch26. Data Biding(2).exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\bin\Debug\net8.0-windows\ch26. Data Biding(2).deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\bin\Debug\net8.0-windows\ch26. Data Biding(2).runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\bin\Debug\net8.0-windows\ch26. Data Biding(2).dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\bin\Debug\net8.0-windows\ch26. Data Biding(2).pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ch26. Data Biding(2)_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ch26. Data Biding(2)_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ch26. Data Biding(2).g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ch26. Data Biding(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ch26. Data Biding(2).AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ch26. Data Biding(2).AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ch26. Data Biding(2).csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ch26. Data Biding(2).dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\refint\ch26. Data Biding(2).dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ch26. Data Biding(2).pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ch26. Data Biding(2).genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch25-2. Data Biding(2)\obj\Debug\net8.0-windows\ref\ch26. Data Biding(2).dll

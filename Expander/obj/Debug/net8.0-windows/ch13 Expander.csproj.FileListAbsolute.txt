@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\bin\Debug\net8.0-windows\ch13 Expander.exe
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\bin\Debug\net8.0-windows\ch13 Expander.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\bin\Debug\net8.0-windows\ch13 Expander.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\bin\Debug\net8.0-windows\ch13 Expander.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\bin\Debug\net8.0-windows\ch13 Expander.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ch13 Expander_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ch13 Expander_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ch13 Expander.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ch13 Expander.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ch13 Expander.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ch13 Expander.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ch13 Expander.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ch13 Expander.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\refint\ch13 Expander.dll
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ch13 Expander.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ch13 Expander.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\Expander\obj\Debug\net8.0-windows\ref\ch13 Expander.dll

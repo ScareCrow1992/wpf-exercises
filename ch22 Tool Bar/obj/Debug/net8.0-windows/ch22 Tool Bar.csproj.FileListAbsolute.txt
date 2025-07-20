@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\bin\Debug\net8.0-windows\ch22 Tool Bar.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\bin\Debug\net8.0-windows\ch22 Tool Bar.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\bin\Debug\net8.0-windows\ch22 Tool Bar.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\bin\Debug\net8.0-windows\ch22 Tool Bar.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\bin\Debug\net8.0-windows\ch22 Tool Bar.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ch22 Tool Bar_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ch22 Tool Bar_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ch22 Tool Bar.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ch22 Tool Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ch22 Tool Bar.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ch22 Tool Bar.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ch22 Tool Bar.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ch22 Tool Bar.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\refint\ch22 Tool Bar.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ch22 Tool Bar.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ch22 Tool Bar.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch22 Tool Bar\obj\Debug\net8.0-windows\ref\ch22 Tool Bar.dll

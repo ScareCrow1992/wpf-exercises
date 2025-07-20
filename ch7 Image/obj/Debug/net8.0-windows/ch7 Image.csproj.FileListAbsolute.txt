@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\bin\Debug\net8.0-windows\ch7 Image.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\bin\Debug\net8.0-windows\ch7 Image.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\bin\Debug\net8.0-windows\ch7 Image.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\bin\Debug\net8.0-windows\ch7 Image.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\bin\Debug\net8.0-windows\ch7 Image.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ch7 Image_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ch7 Image_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ch7 Image.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ch7 Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ch7 Image.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ch7 Image.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ch7 Image.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ch7 Image.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\refint\ch7 Image.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ch7 Image.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ch7 Image.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch7 Image\obj\Debug\net8.0-windows\ref\ch7 Image.dll

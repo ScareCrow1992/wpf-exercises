@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\bin\Debug\net8.0-windows\ch20 Progress Bar.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\bin\Debug\net8.0-windows\ch20 Progress Bar.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\bin\Debug\net8.0-windows\ch20 Progress Bar.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\bin\Debug\net8.0-windows\ch20 Progress Bar.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\bin\Debug\net8.0-windows\ch20 Progress Bar.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ch20 Progress Bar_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ch20 Progress Bar_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ch20 Progress Bar.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ch20 Progress Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ch20 Progress Bar.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ch20 Progress Bar.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ch20 Progress Bar.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ch20 Progress Bar.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\refint\ch20 Progress Bar.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ch20 Progress Bar.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ch20 Progress Bar.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch20 Progress Bar\obj\Debug\net8.0-windows\ref\ch20 Progress Bar.dll

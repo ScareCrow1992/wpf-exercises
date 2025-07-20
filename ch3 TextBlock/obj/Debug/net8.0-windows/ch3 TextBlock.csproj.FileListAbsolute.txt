@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\bin\Debug\net8.0-windows\ch3 TextBlock.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\bin\Debug\net8.0-windows\ch3 TextBlock.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\bin\Debug\net8.0-windows\ch3 TextBlock.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\bin\Debug\net8.0-windows\ch3 TextBlock.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\bin\Debug\net8.0-windows\ch3 TextBlock.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ch3 TextBlock_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ch3 TextBlock_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ch3 TextBlock.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ch3 TextBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ch3 TextBlock.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ch3 TextBlock.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ch3 TextBlock.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ch3 TextBlock.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\refint\ch3 TextBlock.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ch3 TextBlock.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ch3 TextBlock.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch3 TextBlock\obj\Debug\net8.0-windows\ref\ch3 TextBlock.dll

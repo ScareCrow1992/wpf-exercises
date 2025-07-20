@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\bin\Debug\net8.0-windows\ch18 Uniform Grid.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\bin\Debug\net8.0-windows\ch18 Uniform Grid.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\bin\Debug\net8.0-windows\ch18 Uniform Grid.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\bin\Debug\net8.0-windows\ch18 Uniform Grid.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\bin\Debug\net8.0-windows\ch18 Uniform Grid.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ch18 Uniform Grid_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ch18 Uniform Grid_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ch18 Uniform Grid.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ch18 Uniform Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ch18 Uniform Grid.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ch18 Uniform Grid.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ch18 Uniform Grid.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ch18 Uniform Grid.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\refint\ch18 Uniform Grid.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ch18 Uniform Grid.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ch18 Uniform Grid.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch18 Uniform Grid\obj\Debug\net8.0-windows\ref\ch18 Uniform Grid.dll

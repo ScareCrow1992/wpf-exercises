@@ -1,0 +1,20 @@
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\bin\Debug\net8.0-windows\ch12 Slider.exe
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\bin\Debug\net8.0-windows\ch12 Slider.deps.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\bin\Debug\net8.0-windows\ch12 Slider.runtimeconfig.json
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\bin\Debug\net8.0-windows\ch12 Slider.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\bin\Debug\net8.0-windows\ch12 Slider.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\App.g.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ch12 Slider_MarkupCompile.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ch12 Slider_MarkupCompile.lref
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\MainWindow.baml
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ch12 Slider.g.resources
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ch12 Slider.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ch12 Slider.AssemblyInfoInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ch12 Slider.AssemblyInfo.cs
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ch12 Slider.csproj.CoreCompileInputs.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ch12 Slider.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\refint\ch12 Slider.dll
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ch12 Slider.pdb
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ch12 Slider.genruntimeconfig.cache
+C:\dev\projects\wpf-exercises\HelloWPF\ch12 Slider\obj\Debug\net8.0-windows\ref\ch12 Slider.dll
